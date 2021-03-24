@@ -1,4 +1,4 @@
-Este dirotório contém (inicialmente) os filtros obtidos para os respectivos motores 1 e 2, conforme metodologia exposta no trabalho intitulado: "Metodologia de Estimação de Parâmetros via Filtragem Robusta Aplicada ao Motor de Indução Trifásico", de Ruhan Pontes Policarpo de Souza, o qual pode ser encontrado no repositório institucional da UTFPR, no endereço: https://repositorio.utfpr.edu.br/jspui/.
+Este diretório contém (inicialmente) os filtros obtidos para os respectivos motores 1 e 2, conforme metodologia exposta no trabalho intitulado: "Metodologia de Estimação de Parâmetros via Filtragem Robusta Aplicada ao Motor de Indução Trifásico", de Ruhan Pontes Policarpo de Souza, o qual pode ser encontrado no repositório institucional da UTFPR, no endereço: https://repositorio.utfpr.edu.br/jspui/.
 
 Cada arquivo corresponde a um dos motores, e contém as respectivas matrizes:
 Ai, Bu, Bw, Cy, Dyu, Dyw, Cz, Dzu e Dzw - utilizadas para a definição do sistema o qual se deseja filtrar;
